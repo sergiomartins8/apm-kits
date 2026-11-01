@@ -1,0 +1,3687 @@
+{
+ "generated_at": "2026-11-01T18:31:52+00:00",
+ "excluded": "iConik não está incluído: o prédio tem armazém próprio.",
+ "half_bath_note": "(*) Inclui meia casa de banho, sem chuveiro.",
+ "linen_title": "Roupa de cama e toalhas",
+ "notes": [
+  [
+   [
+    "Os kits devem ser preparados no próprio dia de manhã ou no dia anterior. Quando forem preparados no dia anterior, ",
+    false
+   ],
+   [
+    "CONFIRMAR SEMPRE",
+    true
+   ],
+   [
+    " antes das entregas, pois pode ter havido novas reservas de um dia para o outro.",
+    false
+   ]
+  ],
+  [
+   [
+    "Quando faltar lençol de baixo, usar lençol de cima.",
+    false
+   ]
+  ],
+  [
+   [
+    "Tomar atenção ao número de noites da estadia. Em estadias de mais de 4 noites, considerar toalhas ou papel higiénico extra (usar o bom senso).",
+    false
+   ]
+  ]
+ ],
+ "sizes": [
+  {
+   "color": "preto",
+   "name": "Grande",
+   "dot": "#1a1a1a"
+  },
+  {
+   "color": "vermelho",
+   "name": "Médio",
+   "dot": "#d32f2f"
+  },
+  {
+   "color": "azul",
+   "name": "Pequeno",
+   "dot": "#1e63c4"
+  }
+ ],
+ "linen_types": [
+  {
+   "title": "Lençol cima / sofá",
+   "dims": {
+    "preto": "270x280",
+    "vermelho": "240x280",
+    "azul": "180x280"
+   }
+  },
+  {
+   "title": "Lençol baixo",
+   "dims": {
+    "preto": "180x200",
+    "vermelho": "160x200",
+    "azul": "140x200"
+   }
+  },
+  {
+   "title": "Capa edredão",
+   "dims": {
+    "preto": "240x260",
+    "vermelho": "220x240",
+    "azul": "200x200 / 200x220"
+   }
+  }
+ ],
+ "zones": [
+  {
+   "key": "kz-0",
+   "title": "Aveiro · Centro histórico",
+   "short": "Centro histórico",
+   "units": [
+    {
+     "key": "u-beira-ria-1",
+     "name": "Beira Ria 1",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         0
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Beira Ria"
+    },
+    {
+     "key": "u-beira-ria-2",
+     "name": "Beira Ria 2",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         0
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Beira Ria"
+    },
+    {
+     "key": "u-beira-ria-loft",
+     "name": "Beira Ria Loft",
+     "typology": "T1",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Beira Ria"
+    },
+    {
+     "key": "u-ria-laco-f",
+     "name": "Ria Laço F",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Ria Laço F"
+    },
+    {
+     "key": "u-canal-g",
+     "name": "Canal G",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Canal"
+    },
+    {
+     "key": "u-canal-i",
+     "name": "Canal I",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Canal"
+    },
+    {
+     "key": "u-canal-k",
+     "name": "Canal K",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Canal"
+    },
+    {
+     "key": "u-canal-l",
+     "name": "Canal L",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Canal"
+    },
+    {
+     "key": "u-tomasias-23-a",
+     "name": "Tomasias 23 A",
+     "typology": "T1",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "preto",
+        "count": 1,
+        "label": "Cama King"
+       },
+       {
+        "color": "azul",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Tomasias 23 A"
+    },
+    {
+     "key": "u-ruela-96",
+     "name": "Ruela 96",
+     "typology": "T1",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         0
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Ruela 96"
+    },
+    {
+     "key": "u-gran-ria-e",
+     "name": "Gran Ria E",
+     "typology": "T3 + 2 (duplex)",
+     "wcs": "3",
+     "guests": 10,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 4,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 2,
+        "label": "Cama Single"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         8,
+         0
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         0,
+         2
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         16,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         8,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "6"
+        ],
+        [
+         "Tapete wc",
+         "3"
+        ],
+        [
+         "Saco do lixo wc",
+         "3"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "6"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Gran Ria E"
+    },
+    {
+     "key": "u-greenview-d",
+     "name": "GreenView D",
+     "typology": "T1",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "GreenView"
+    },
+    {
+     "key": "u-greenview-f",
+     "name": "GreenView F",
+     "typology": "T1 + 1 (duplex)",
+     "wcs": "2",
+     "guests": 5,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 2,
+        "label": "Cama Single"
+       },
+       {
+        "color": "azul",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         2,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         0,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         2,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2,
+         1
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2,
+         1
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "2"
+        ],
+        [
+         "Tapete wc",
+         "2"
+        ],
+        [
+         "Saco do lixo wc",
+         "2"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "4"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "5"
+        ],
+        [
+         "Chá",
+         "5"
+        ],
+        [
+         "Açúcar",
+         "5"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "GreenView"
+    }
+   ]
+  },
+  {
+   "key": "kz-1",
+   "title": "Aveiro · Alboi",
+   "short": "Alboi",
+   "units": [
+    {
+     "key": "u-cais-do-sal-e",
+     "name": "Cais do Sal E",
+     "typology": "T1 (duplex)",
+     "wcs": "1.5*",
+     "guests": 4,
+     "half_bath": true,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "2"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "2"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "4"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Cais do Sal E"
+    }
+   ]
+  },
+  {
+   "key": "kz-2",
+   "title": "Aveiro · Teatro",
+   "short": "Teatro",
+   "units": [
+    {
+     "key": "u-historia",
+     "name": "Historia",
+     "typology": "T1 + 1",
+     "wcs": "1",
+     "guests": 3,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 1,
+        "label": "Cama Single"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         1
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         1
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         1
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Nespresso",
+         "3"
+        ],
+        [
+         "Chá",
+         "3"
+        ],
+        [
+         "Açúcar",
+         "3"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Historia"
+    },
+    {
+     "key": "u-gloria-1d",
+     "name": "Gloria 1D",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Gloria"
+    },
+    {
+     "key": "u-gloria-1f",
+     "name": "Gloria 1F",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Gloria"
+    }
+   ]
+  },
+  {
+   "key": "kz-3",
+   "title": "Aveiro · Avenida e Estação",
+   "short": "Avenida e Estação",
+   "units": [
+    {
+     "key": "u-white-405",
+     "name": "White 405",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "preto",
+        "count": 1,
+        "label": "Cama King"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "White 405"
+    },
+    {
+     "key": "u-nb-life-v",
+     "name": "NB Life V",
+     "typology": "T2",
+     "wcs": "2",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 2,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         4
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "2"
+        ],
+        [
+         "Tapete wc",
+         "2"
+        ],
+        [
+         "Saco do lixo wc",
+         "2"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "4"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "NB Life V"
+    },
+    {
+     "key": "u-square-b",
+     "name": "Square B",
+     "typology": "T1",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "preto",
+        "count": 1,
+        "label": "Cama King"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Square B"
+    },
+    {
+     "key": "u-blanc-7-2.3",
+     "name": "Blanc 7 2.3",
+     "typology": "T2",
+     "wcs": "2",
+     "guests": 6,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 2,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         2,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         2,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         2,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         8,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         4,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "2"
+        ],
+        [
+         "Tapete wc",
+         "2"
+        ],
+        [
+         "Saco do lixo wc",
+         "2"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "4"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "6"
+        ],
+        [
+         "Chá",
+         "6"
+        ],
+        [
+         "Açúcar",
+         "6"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Blanc 7 2.3"
+    },
+    {
+     "key": "u-blanc-18-1.6-a",
+     "name": "Blanc 18 1.6 A",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Blanc 18"
+    },
+    {
+     "key": "u-blanc-18-1.7-a",
+     "name": "Blanc 18 1.7 A",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Blanc 18"
+    },
+    {
+     "key": "u-blanc-18-3.6",
+     "name": "Blanc 18 3.6",
+     "typology": "T0",
+     "wcs": "1",
+     "guests": 2,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "2"
+        ],
+        [
+         "Chá",
+         "2"
+        ],
+        [
+         "Açúcar",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Blanc 18"
+    },
+    {
+     "key": "u-blanc-28-2.10",
+     "name": "Blanc 28 2.10",
+     "typology": "T1",
+     "wcs": "1.5*",
+     "guests": 4,
+     "half_bath": true,
+     "linen": {
+      "columns": [
+       {
+        "color": "preto",
+        "count": 1,
+        "label": "Cama King"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "2"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "2"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "4"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Blanc 28 2.10"
+    }
+   ]
+  },
+  {
+   "key": "kz-4",
+   "title": "Barra",
+   "short": "Barra",
+   "units": [
+    {
+     "key": "u-doca-2-a-0.6",
+     "name": "DOCA 2 A 0.6",
+     "typology": "T1",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "DOCA 2 A 0.6"
+    },
+    {
+     "key": "u-doca-1-a-1.2",
+     "name": "DOCA 1 A 1.2",
+     "typology": "T1",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "DOCA 1 A 1.2"
+    }
+   ]
+  },
+  {
+   "key": "kz-5",
+   "title": "Costa Nova",
+   "short": "Costa Nova",
+   "units": [
+    {
+     "key": "u-vela-marina-ff",
+     "name": "Vela Marina FF",
+     "typology": "T4",
+     "wcs": "3.5*",
+     "guests": 8,
+     "half_bath": true,
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 3,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 2,
+        "label": "Cama Single"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         3,
+         2
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         6,
+         2
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         6,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         6,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "8"
+        ],
+        [
+         "Tapete wc",
+         "3"
+        ],
+        [
+         "Saco do lixo wc",
+         "4"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "8"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "8"
+        ],
+        [
+         "Chá",
+         "8"
+        ],
+        [
+         "Açúcar",
+         "8"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Vela Marina FF"
+    }
+   ]
+  }
+ ]
+}
