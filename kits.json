@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T18:31:52+00:00",
+ "generated_at": "2026-11-16T10:08:59+00:00",
  "excluded": "iConik não está incluído: o prédio tem armazém próprio.",
  "half_bath_note": "(*) Inclui meia casa de banho, sem chuveiro.",
  "linen_title": "Roupa de cama e toalhas",
@@ -35,17 +35,20 @@
   {
    "color": "preto",
    "name": "Grande",
-   "dot": "#1a1a1a"
+   "dot": "#1a1a1a",
+   "bed": "Cama King"
   },
   {
    "color": "vermelho",
    "name": "Médio",
-   "dot": "#d32f2f"
+   "dot": "#d32f2f",
+   "bed": "Cama Queen"
   },
   {
    "color": "azul",
    "name": "Pequeno",
-   "dot": "#1e63c4"
+   "dot": "#1e63c4",
+   "bed": "Cama Single"
   }
  ],
  "linen_types": [
@@ -87,6 +90,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -219,6 +234,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -351,6 +378,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4+2",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -487,6 +526,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -612,6 +663,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": true,
+     "tablecloth": "retangular",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -737,6 +800,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -858,6 +933,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -983,6 +1070,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": "retangular",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -1104,6 +1203,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "preto",
+       "count": 1,
+       "label": "Cama King"
+      }
+     ],
+     "sofa": "azul",
+     "pillowcases": "4+2",
+     "dishwasher": false,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -1236,6 +1347,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": "retangular",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -1368,6 +1491,23 @@
      "wcs": "3",
      "guests": 10,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 4,
+       "label": "Cama Queen"
+      },
+      {
+       "color": "azul",
+       "count": 2,
+       "label": "Cama Single"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4+4+4+4+1+1",
+     "dishwasher": true,
+     "tablecloth": "retangular",
+     "coffee": null,
      "linen": {
       "columns": [
        {
@@ -1481,6 +1621,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "azul",
+     "pillowcases": "4+2",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -1617,6 +1769,23 @@
      "wcs": "2",
      "guests": 5,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      },
+      {
+       "color": "azul",
+       "count": 2,
+       "label": "Cama Single"
+      }
+     ],
+     "sofa": "azul",
+     "pillowcases": "4+1+1+2",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -1771,6 +1940,18 @@
      "wcs": "1.5*",
      "guests": 4,
      "half_bath": true,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4+2",
+     "dishwasher": false,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -1910,6 +2091,23 @@
      "wcs": "1",
      "guests": 3,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      },
+      {
+       "color": "azul",
+       "count": 1,
+       "label": "Cama Single"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4+1",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Nespresso",
      "linen": {
       "columns": [
        {
@@ -2046,6 +2244,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": null,
+     "coffee": null,
      "linen": {
       "columns": [
        {
@@ -2159,6 +2369,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": null,
+     "coffee": null,
      "linen": {
       "columns": [
        {
@@ -2279,6 +2501,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "preto",
+       "count": 1,
+       "label": "Cama King"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -2404,6 +2638,18 @@
      "wcs": "2",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 2,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "2+2",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -2529,6 +2775,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "preto",
+       "count": 1,
+       "label": "Cama King"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4+2",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -2665,6 +2923,18 @@
      "wcs": "2",
      "guests": 6,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 2,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "azul",
+     "pillowcases": "4+4+2",
+     "dishwasher": true,
+     "tablecloth": "retangular",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -2801,6 +3071,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": null,
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -2918,6 +3200,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": null,
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -3035,6 +3329,18 @@
      "wcs": "1",
      "guests": 2,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "4",
+     "dishwasher": false,
+     "tablecloth": null,
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -3152,6 +3458,18 @@
      "wcs": "1.5*",
      "guests": 4,
      "half_bath": true,
+     "beds": [
+      {
+       "color": "preto",
+       "count": 1,
+       "label": "Cama King"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4+2",
+     "dishwasher": true,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -3295,6 +3613,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "vermelho",
+     "pillowcases": "4+2",
+     "dishwasher": false,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -3427,6 +3757,18 @@
      "wcs": "1",
      "guests": 4,
      "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "azul",
+     "pillowcases": "4+2",
+     "dishwasher": false,
+     "tablecloth": "retangular",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
@@ -3566,6 +3908,23 @@
      "wcs": "3.5*",
      "guests": 8,
      "half_bath": true,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 3,
+       "label": "Cama Queen"
+      },
+      {
+       "color": "azul",
+       "count": 2,
+       "label": "Cama Single"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "2+2+2+1+1",
+     "dishwasher": true,
+     "tablecloth": "retangular",
+     "coffee": "Delta Q",
      "linen": {
       "columns": [
        {
