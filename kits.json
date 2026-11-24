@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T10:22:09+00:00",
+ "generated_at": "2026-11-24T20:10:06+00:00",
  "excluded": "iConik não está incluído: o prédio tem armazém próprio.",
  "half_bath_note": "(*) Inclui meia casa de banho, sem chuveiro.",
  "linen_title": "Roupa de cama e toalhas",
@@ -2076,6 +2076,150 @@
       }
      ],
      "building": "Cais do Sal E"
+    },
+    {
+     "key": "u-cais-do-sal-j",
+     "name": "Cais do Sal J",
+     "typology": "T1 (duplex)",
+     "wcs": "1",
+     "guests": 4,
+     "half_bath": false,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 1,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": "azul",
+     "pillowcases": "4+2",
+     "dishwasher": false,
+     "tablecloth": "redonda",
+     "coffee": "Delta Q",
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 1,
+        "label": "Cama Queen"
+       },
+       {
+        "color": "azul",
+        "count": 1,
+        "label": "Sofá cama"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         1,
+         0
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         1,
+         1
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         4,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         2,
+         2
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         2,
+         2
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "1"
+        ],
+        [
+         "Tapete wc",
+         "1"
+        ],
+        [
+         "Saco do lixo wc",
+         "1"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "2"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa redonda",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "4"
+        ],
+        [
+         "Chá",
+         "4"
+        ],
+        [
+         "Açúcar",
+         "4"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Cais do Sal J"
     }
    ]
   },
