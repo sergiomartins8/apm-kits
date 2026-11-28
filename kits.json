@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:10:06+00:00",
+ "generated_at": "2026-11-28T10:12:31+00:00",
  "excluded": "iConik não está incluído: o prédio tem armazém próprio.",
  "half_bath_note": "(*) Inclui meia casa de banho, sem chuveiro.",
  "linen_title": "Roupa de cama e toalhas",
@@ -2774,6 +2774,143 @@
       }
      ],
      "building": "White 405"
+    },
+    {
+     "key": "u-barroka-aq",
+     "name": "Barroka AQ",
+     "typology": "T3",
+     "wcs": "2.5*",
+     "guests": 6,
+     "half_bath": true,
+     "beds": [
+      {
+       "color": "vermelho",
+       "count": 3,
+       "label": "Cama Queen"
+      }
+     ],
+     "sofa": null,
+     "pillowcases": "2+2+2",
+     "dishwasher": true,
+     "tablecloth": "retangular",
+     "coffee": "Delta Q",
+     "linen": {
+      "columns": [
+       {
+        "color": "vermelho",
+        "count": 3,
+        "label": "Cama Queen"
+       }
+      ],
+      "rows": [
+       {
+        "label": "Lençol baixo",
+        "values": [
+         3
+        ]
+       },
+       {
+        "label": "Lençol cima",
+        "values": [
+         3
+        ]
+       },
+       {
+        "label": "Capa edredão",
+        "values": [
+         3
+        ]
+       },
+       {
+        "label": "Fronhas",
+        "values": [
+         6
+        ]
+       },
+       {
+        "label": "Toalhas grandes",
+        "values": [
+         6
+        ]
+       },
+       {
+        "label": "Toalhas pequenas",
+        "values": [
+         6
+        ]
+       }
+      ]
+     },
+     "lists": [
+      {
+       "title": "Casa de banho",
+       "rows": [
+        [
+         "Toalha pequena (wc)",
+         "3"
+        ],
+        [
+         "Tapete wc",
+         "2"
+        ],
+        [
+         "Saco do lixo wc",
+         "3"
+        ],
+        [
+         "Rolos de papel higiénico",
+         "6"
+        ]
+       ]
+      },
+      {
+       "title": "Cozinha e sala",
+       "rows": [
+        [
+         "Panos cozinha",
+         "2"
+        ],
+        [
+         "Pano multiusos",
+         "1"
+        ],
+        [
+         "Sacos do lixo cozinha",
+         "2"
+        ],
+        [
+         "Toalha de mesa retangular",
+         "1"
+        ]
+       ]
+      },
+      {
+       "title": "Kit consumíveis",
+       "rows": [
+        [
+         "Café Delta Q",
+         "6"
+        ],
+        [
+         "Chá",
+         "6"
+        ],
+        [
+         "Açúcar",
+         "6"
+        ],
+        [
+         "Pastilhas MLL",
+         "2"
+        ],
+        [
+         "Esfregão loiça",
+         "1"
+        ]
+       ]
+      }
+     ],
+     "building": "Barroka AQ"
     },
     {
      "key": "u-nb-life-v",
